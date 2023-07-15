@@ -26,5 +26,8 @@ Compete with your friends and Measure your Words Per Minute (WPM)!
 4. Paste and send in chat to see your results (`Ctrl/Cmd + V`)
 ### :link: **Import link**
 <https://carl.gg/t/1194151>
-### :frame_photo: **Preview**
-https://i.imgur.com/Qmjzcs4.png
+### 🖼️ **Preview**
+![image](https://github.com/asty8926/typing-speed-tag/assets/31024172/0ace7517-44a7-4352-ba05-2ea93ad81909)
+![image](https://github.com/asty8926/typing-speed-tag/assets/31024172/34eb45e2-bbc9-4532-8991-9fd0d34547da)
+![image](https://github.com/asty8926/typing-speed-tag/assets/31024172/e8877032-7975-4c10-923d-f26612e0f434)
+
